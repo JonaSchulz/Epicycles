@@ -1,6 +1,11 @@
 # Epicycles
 Draw anything on the screen and have it recreated by the rotating arrows of a complex Fourier series.
 
+<p float="left">
+  <img src="img/img_1.png" width="500" />
+  <img src="img/img_2.png" width="500" /> 
+</p>
+
 ### Requirements:
 numpy and pygame need to be installed.
 

@@ -13,7 +13,7 @@ grey = 60, 60, 60
 size = 1200, 900
 background_color = black
 
-number_of_arrows = 10
+number_of_arrows = 50
 unit = 100              # number of pixels corresponding to 1 on the complex plane
 arrow_color = red
 path_color = blue
